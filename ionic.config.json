@@ -1,0 +1,8 @@
+{
+  "name": "to-do",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "9717f4ad"
+}
